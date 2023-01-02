@@ -1,3 +1,5 @@
+#OPEN SOURCE BY SYED-ZADA & QAISER ABBAS 
+#LOLI KING😹
 from os import path
 import os,base64,zlib,pip,urllib
 g1=('A');g2=('K');g3=('I');g4=('N');g5=('G');g6=('1');g7=('1');g8=('0');pr=('-P');pr1=('R');pr2=('O')
